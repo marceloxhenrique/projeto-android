@@ -69,15 +69,14 @@ header > p {
 
 }
 nav {
-    min-height: 50px;
-    background-color: var(--cor1);
-    /*padding: 10px;*/
+    background-color: var(--cor5);
+    padding: 20px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.274);
-    padding-top: 25px;
+    padding-top: 30px;
     
 }
 nav > a {
-    padding: 8px;
+    padding: 5px;
     color: white;
     text-decoration: none;
     border-radius: 5px;
